@@ -1,3 +1,5 @@
 ###### Requirements without Version Specifiers ######`
 selenium
 webdriver-manager
+
+###### pip install -r requirements.txt #####
