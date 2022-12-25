@@ -1,3 +1,5 @@
-###### Requirements without Version Specifiers ######`
-selenium
-webdriver-manager
+###### Requirements with Version Specifiers ######`
+selenium == 4.5.0
+webdriver-manager == 3.8.4
+
+###### pip install -r requirements.txt #####
